@@ -9,6 +9,18 @@ A fully responsive, dark-themed, FAANG-level ReactJS application that simulates 
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-10.12.4-FF0055?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-4.3.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+
+| ![Image1](https://github.com/user-attachments/assets/1e23e69c-9f0d-4ac6-967a-b8a16609ff43) | ![Image2](https://github.com/user-attachments/assets/e44e9c34-fca4-4fe0-ae8f-717c4dfe62a6) |
+|:--------------------------------------------------------:|:--------------------------------------------------------:|
+
+| ![Image1](https://github.com/user-attachments/assets/5f3ea757-29b4-499c-9100-792e90c057a3) | ![Image2](https://github.com/user-attachments/assets/2bffd55e-0e7b-4a56-985f-c4db2156c2aa) | ![Image3](https://github.com/user-attachments/assets/94e1b493-8368-43e0-bb4f-8b1a5a44daf6) |
+|:--------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------------:|
+
+| ![Image1](https://github.com/user-attachments/assets/231da30c-de3b-463b-9f51-e326454aa57b) | ![Image2](https://github.com/user-attachments/assets/d03cf331-f17c-45ef-8d4c-bb0dec61b4f2) |
+|:--------------------------------------------------------:|:--------------------------------------------------------:|
+
+
+
 ## ✨ Features
 
 ### 🎯 Core Features
